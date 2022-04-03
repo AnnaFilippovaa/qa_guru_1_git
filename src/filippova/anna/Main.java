@@ -9,6 +9,6 @@ public class Main {
     }
     
     public void another() {
-        System.out.println("Another method");
+        System.out.println("Another method!");
     }
 }
