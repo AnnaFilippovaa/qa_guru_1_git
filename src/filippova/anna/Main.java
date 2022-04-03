@@ -9,6 +9,6 @@ public class Main {
     }
     
     public void another() {
-        System.out.println("ANOTHER METHOD");
+        System.out.println("conflict");
     }
 }
